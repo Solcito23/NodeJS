@@ -3,8 +3,9 @@
 _Modulo de node que consulta la api 'newsAPI'_
 
 ## Instalación 
-
-_npm i api-news_
+```
+_> npm i api-news_
+```
 
 ## Limitación
 
