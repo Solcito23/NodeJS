@@ -1,0 +1,14 @@
+{
+    "name": "api-news",
+    "version": "1.0.0",
+    "description": "Modulo para obtener noticias",
+    "main": "app.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "Sol Acosta",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.2.0"
+    }
+}
